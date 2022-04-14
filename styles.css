@@ -1,3 +1,30 @@
 * {
     font-family: Helvetica, sans-serif;
 }
+
+ul{
+    list-style-position: outside;
+    
+}
+
+ol{
+    
+    list-style-position: outside;
+    
+}
+
+li{
+    
+    
+}
+
+.header{
+    text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
